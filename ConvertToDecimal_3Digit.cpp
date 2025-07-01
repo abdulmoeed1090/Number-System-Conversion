@@ -1,4 +1,4 @@
-// A simple program to convert a 3 digit binary input to decimal(base10)
+// A simple program. to convert a 3 digit binary input to decimal(base10)
 
 #include <iostream>
 #include <cmath>
